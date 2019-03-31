@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/dsyouness/BORING_JONES_13_PSCHIA/blob/master/PSYCHIA.png)
 Mental disorders are a major problem of public health, they concern the patients but also their entourage, it is a major problem because their care is very problematic
 in low-income countries, 76% to 85% of people with mental disorders are not supported for this condition. In high-income countries, 35% to 50% of those affected are in the same situation. These figures are consistent with the lack of mental health professionals.
 Another problem concerns people under treatment; Indeed, the poor quality of care provided to these patients is another problem that aggravates the situation. This state of affairs is related on the one hand to the difficulty of the correct diagnosis and the determination of its gravity which has a direct impact on the therapeutic strategy to follow. On the other hand for the same diagnosis, different treatments can be proposed to different patient profiles.
